@@ -1,0 +1,61 @@
+
+.friends-section {
+  margin-top: 32px;
+}
+
+.friends-section h2,
+.welcome-card h2 {
+  font-size: 18px;
+  margin-bottom: 16px;
+}
+
+.friends-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.friend-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  padding: 14px 0;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.remove-button {
+  background: transparent !important;
+  color: #dc2626 !important;
+  padding: 6px 8px !important;
+  font-size: 13px !important;
+}
+
+.continue-button {
+  width: 100%;
+  margin-top: 24px;
+  padding: 14px;
+  border: none;
+  border-radius: 8px;
+  background: #0d9488;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.continue-button:hover:not(:disabled) {
+  background: #0f766e;
+}
+
+.continue-button:disabled {
+  background: #9ca3af;
+  cursor: not-allowed;
+}
+
+.helper-text {
+  text-align: center;
+  color: #6b7280;
+  font-size: 13px;
+  margin-top: 12px;
+}
