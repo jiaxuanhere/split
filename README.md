@@ -2,7 +2,7 @@
 
 Travelling with your friends can be frustrating not knowing how to split the costs of the trip. Have fun and leave your worries to Split
 
-# My learnings
+## My learnings
 
 This is my first project in learning how to create an web application
 To start off, I will be using react to create the front-end and python for the back-end calculations
