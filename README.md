@@ -1,2 +1,2 @@
-# $plit
+# split
 Spliting the cost of travel with your friend group can be frustrating...
